@@ -21,7 +21,7 @@ class App extends Component<AppProps, AppState> {
       <div>
         <Hello name={this.state.name} />
         <p>
-          Edi to see some magic happen :)
+          Edi to see some 🪄 happen :)
         </p>
       </div>
     );
