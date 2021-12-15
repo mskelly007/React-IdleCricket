@@ -1,8 +1,9 @@
 {
-  "name": "react-ts",
+  "name": "idlecricket",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@babel/runtime": "7.16.5",
     "@types/react": "^16.8.2",
     "@types/react-dom": "^16.8.0",
     "react": "^16.8.0",
@@ -16,5 +17,7 @@
   },
   "devDependencies": {
     "react-scripts-ts": "latest"
-  }
+  },
+  "keywords": [],
+  "description": "React"
 }
